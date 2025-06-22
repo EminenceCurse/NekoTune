@@ -59,4 +59,4 @@ Want full albums or playlists? Just **drop a Spotify or Deezer link** — I’ve
 
 ## 📄 License
 
-**[MIT](https://github.com/TheErenYeagerx)**
+**[MIT](https://github.com/EminenceCurse/NekoTune/blob/main/LICENSE)**
